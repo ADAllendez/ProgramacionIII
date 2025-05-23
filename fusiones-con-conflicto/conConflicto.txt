@@ -1,3 +1,7 @@
 archivo base con conflicto
 Modificando el archivo, primera vez
+<<<<<<< HEAD
 modificando el archivo, segunda vez
+=======
+Modificando el archivo por segunda vez
+>>>>>>> conflicto4
