@@ -1,2 +1,3 @@
 archivo base con conflicto
 Modificando el archivo, primera vez
+Modificando el archivo por cuarta vez 
