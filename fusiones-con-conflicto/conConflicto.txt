@@ -1,4 +1,4 @@
 archivo base con conflicto
-Modificando el archivo, primera vez
-modificando el archivo, segunda vez
+
 Agregando conflictos
+Aprendiendo con conflictos 
