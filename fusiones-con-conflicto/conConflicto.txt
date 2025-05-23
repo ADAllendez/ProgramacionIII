@@ -1,1 +1,2 @@
 archivo base con conflicto
+Modificando el archivo, segundo conflicto
