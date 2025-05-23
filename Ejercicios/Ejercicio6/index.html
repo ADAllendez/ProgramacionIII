@@ -3,9 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <title>Ejercicio6</title>
 </head>
 <body>
-    
+    <h2>Formulario</h2>
+    <form>
+        <label>Nombre: <input type="text" id="nombre" /></label><br /><br />
+        <label>Apellido: <input type="text" id="apellido" /></label><br /><br />
+        <label>Edad: <input type="text" id="edad" /></label><br /><br />
+        <label>Altura (cm): <input type="text" id="altura" /></label><br /><br />
+        <label>Correo electrónico: <input type="text" id="correo" /></label><br /><br />
+        
+    </form>
+    <button onclick="enviar()">Enviar</button>
+    <script src="script.js"></script>
+    <p id="resultado"></p>
 </body>
 </html>
